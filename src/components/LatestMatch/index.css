@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.banner {
+  margin-bottom: 10px;
+}
+.jjj {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.jj {
+  background-color: #a4261d;
+  height: 100vh;
+  width: 100vw;
+}
+.team-container {
+  background-color: #a4261d;
+  color: #ffffff;
+}
+h1 {
+  font-size: 20px;
+}
+.comlogo {
+  height: 150px;
+  width: 150px;
+}
+.connn {
+  display: flex;
+  background-color: #0f172a;
+  color: #ffffff;
+  justify-content: space-around;
+  height: 400px;
+  align-items: center;
+  padding: 20px;
+}
+.left {
+  height: 300px;
+}
+.right {
+  height: 300px;
+}
+.unlist {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 10px;
+}

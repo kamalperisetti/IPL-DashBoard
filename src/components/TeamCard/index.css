@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.teamImage {
+  height: 100px;
+}
+
+.list {
+  list-style-type: none;
+  display: flex;
+  background-color: #ffffff33;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #ffffff33;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 10px;
+  width: 400px;
+  height: 150px;
+  text-align: center;
+  color: #ffffff;
+}
